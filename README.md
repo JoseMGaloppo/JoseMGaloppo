@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! I'm José María 👋</h1>
 
-<p align="center">
-  <img src="" alt="Banner" width="100%" />
-</p>
+![banner](BannerGitHub.png)
 
 ### 🙋‍♂️ About Me
 
