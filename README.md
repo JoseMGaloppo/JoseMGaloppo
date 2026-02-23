@@ -1,53 +1,52 @@
-<h1 align="center">Hi there! I'm José 👋</h1>
+<h1 align="center">Hi there! I'm José María 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/JoseMGaloppo/JoseMGaloppo/blob/449f8a99cc4e98dd4324929ecf24755e8bd87892/banner.png" alt="Banner" width="100%" />
+  <img src="" alt="Banner" width="100%" />
 </p>
-
-
 
 ### 🙋‍♂️ About Me
 
-I'm José, a Computer Engineering student from Córdoba, Argentina 🇦🇷.  
-I have a deep interest in both software development and electronics, and I’m especially passionate about creating practical solutions through code and hardware integration.
+I'm a 5th-year **Computer Engineering** student at FCEFyN - UNC.  
+My focus has shifted towards the world of **Backend Development and DevOps**, where I enjoy building scalable systems and automating workflows.
 
-☕ Java is my primary programming language and a key part of how I think and approach problems.  
-🔌 I enjoy working on embedded systems using microcontrollers such as the PIC16F887, combining low-level control with real-world interaction.  
-🧠 I'm continuously learning about software design, architecture patterns, and best practices to build scalable and maintainable systems.  
-📱 I'm also starting to explore Kotlin to expand my skills in modern Android development.
+Currently, I'm a **Teaching Assistant** for the "Software and Hardware Engineering" course, where I help other students navigate the intersection of code and systems. I’m passionate about technical excellence, which is why I apply **TDD, CI/CD, and clean architecture** in my personal projects.
 
-I'm currently open to internships, collaborative projects, and any opportunities that allow me to grow as a developer and engineer.
+Beyond coding, I'm deep into advanced mathematics (Topology and Logic) and I'm a piano enthusiast. 🎹
 
 ---
 
-### 🛠️ Technologies I Use
+### 🛠️ Technologies & Tools
+
+**Backend & Dev**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools**
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-00599C.svg?style=for-the-badge)
-
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning & Interested In
 
-- Software design patterns 
-- Software architecture patterns 
-- Kotlin basics and Android app development
-- Software engineering best practices
-- Microcontroller programming (PIC16F887)
-- Assembly and C for embedded systems
-- Concurrent programming and Petri nets
-  
+- **Advanced DevOps:** Scaling applications with Kubernetes and improving Observability.
+- **Software Architecture:** Deep dive into Microservices and Event-Driven Design.
+- **English:** Working towards a Cambridge B2 certification.
 
 ---
-
 
 ### 📬 Contact
 
-- 📧 josemgaloppo@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/josé-maría-galoppo-3018b7340) 
+- 📧 [josemgaloppo@gmail.com](mailto:josemgaloppo@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/josé-maría-galoppo-3018b7340)
