@@ -9,7 +9,7 @@ My focus has shifted towards the world of **Backend Development and DevOps**, wh
 
 Currently, I'm a **Teaching Assistant** for the "Software and Hardware Engineering" course, where I help other students navigate the intersection of code and systems. I’m passionate about technical excellence, which is why I apply **TDD, CI/CD, and clean architecture** in my personal projects.
 
-Beyond coding, I'm deep into advanced mathematics (Topology and Logic) and I'm a piano enthusiast. 🎹
+Beyond coding, I'm exploring advanced mathematics (Topology and Logic) as a personal challenge, and I’m a dedicated piano enthusiast. 🎹
 
 ---
 
